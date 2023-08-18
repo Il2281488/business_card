@@ -1,0 +1,19 @@
+a{
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: blue;
+    color: #fff;
+    transition: .3s linear;
+    margin-top: 20px;
+    display: block;
+}
+
+a:hover, a:active{
+    opacity: 0.8;
+}
+
+.container{
+    text-align: center;
+    padding: 20px;
+}
